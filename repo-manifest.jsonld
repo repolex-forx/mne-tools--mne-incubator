@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mne-tools/mne-incubator/commit/744480276d8639bff3b29e045bf11f105f36c8ad",
       "git:hexsha": "744480276d8639bff3b29e045bf11f105f36c8ad",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
